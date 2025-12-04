@@ -1,0 +1,47 @@
+# Gradle
+.gradle/
+**/build/
+*/build/
+
+# Gradle wrapper
+gradle/wrapper/gradle-wrapper.jar
+
+# Kotlin/Gradle caches
+.kotlin/
+
+# Android/IDE
+/local.properties
+*.iml
+.idea/
+.idea/**
+
+# Android build outputs
+*.apk
+*.ap_
+*.aab
+captures/
+
+# Native build
+.externalNativeBuild/
+
+# Keystore and secrets
+*.jks
+*.keystore
+.keystore.properties
+*.properties
+*.env
+google-services.json
+app/google-services.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor temp files
+*.log
+*.tmp
+*.swp
+*.orig
+
+# Misc
+.vscode/
