@@ -1,0 +1,9 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Simple block letters that will be clear -->
+    <path android:fillColor="#FFFFFF" android:pathData="M10,30h8v20h12V30h8v40h-8V50H18v20h-8z M40,30h20v8H48v8h12v8H48v8h12v8H40z M70,30h8v32h12v8H70z M90,30h8v40h-8z"/> <!-- WELL -->
+    <path android:fillColor="#FFFFFF" android:pathData="M10,80h8v20h12V80h8v30h-8V95H18v15h-8z M40,80h20v8H48v24h12v8H40z M70,80h20v8H78v8h12v8H78v8h12v8H70z M95,80h8v30h-8z"/> <!-- NESS -->
+</vector>

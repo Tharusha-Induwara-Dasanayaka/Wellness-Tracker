@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Background color -->
+    <path
+        android:fillColor="#FF6B6B"
+        android:pathData="M0,0h108v108h-108z" />
+
+    <!-- WELLNESS Text (subtle, light color) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.2"
+        android:pathData="M15,30 Q25,25 35,30 T55,30 T75,30 T95,30" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.2"
+        android:pathData="M15,50 Q25,45 35,50 T55,50 T75,50 T95,50" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.2"
+        android:pathData="M15,70 Q25,65 35,70 T55,70 T75,70 T95,70" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.2"
+        android:pathData="M15,90 Q25,85 35,90 T55,90 T75,90 T95,90" />
+</vector>

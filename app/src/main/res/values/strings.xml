@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Wellness Tracker</string>
+    <string name="habits_tracker">Habits Tracker</string>
+    <string name="morning_routine">Morning Routine</string>
+    <string name="exercise">Exercise</string>
+    <string name="meditation">Meditation</string>
+    <string name="reading">Reading</string>
+    <string name="percentage_format">%d%%</string>
+    <string name="water_status_format">%d ml / %d ml</string>
+
+    <!-- Add these for WaterFragment -->
+    <string name="minutes_15">15 minutes</string>
+    <string name="minutes_30">30 minutes</string>
+    <string name="hour_1">1 hour</string>
+    <string name="hours_2">2 hours</string>
+    <string name="reminders_enabled">Water reminders enabled</string>
+    <string name="reminders_disabled">Water reminders disabled</string>
+    <string name="percentage_completed">%1$d%% Completed</string>
+    <string name="water_intake_format">%1$d ml / %2$d ml</string>
+
+    <string name="onboarding_title_1">Welcome to Wellness Tracker</string>
+    <string name="onboarding_desc_1">Build better habits, track your mood, and stay hydrated every day</string>
+    <string name="onboarding_title_2">Ready to Start Your Journey?</string>
+    <string name="feature_habits">✓ Track Daily Habits</string>
+    <string name="feature_mood">✓ Log Your Mood</string>
+    <string name="feature_water">✓ Stay Hydrated</string>
+    <string name="app_logo_desc">Wellness Tracker App Logo</string>
+    <string name="onboarding_icon_desc">Wellness icon</string>
+
+    <!-- ADD THESE TWO MISSING STRINGS -->
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+</resources>
